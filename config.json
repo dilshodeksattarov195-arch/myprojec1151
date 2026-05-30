@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondelete",
+        "uuid": 10451080,
+        "checksum": "hl2hmj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
